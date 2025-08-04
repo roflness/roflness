@@ -25,8 +25,9 @@
 - Cloud & DevOps: AWS (Lambda, RDS), Docker, GitHub Actions
 - UI / Design: React, Fluent UI, Storybook, Tailwind
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roflness&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roflness&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+###📫 Here's my contact details if you are looking to grab a coffee or looking to hire me:
+
+Email: rcreyes.951@gmail.com
+Phone: +19518161523
