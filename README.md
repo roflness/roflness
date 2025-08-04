@@ -1,6 +1,6 @@
 ### <p align="center">Hi there, I'm Rafael (<strong>roflness</strong>) 👋</p>
 
-<p align="center">Product Owner &amp; Data Enthusiast | BS in Pure Mathematics | San Diego, CA</p>
+### <p align="center">Product Owner &amp; Data Enthusiast | BS in Pure Mathematics | San Diego, CA</p>
 
 ---
 
