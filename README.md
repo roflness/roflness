@@ -27,7 +27,6 @@
 
 ---
 
-###📫 Here's my contact details if you are looking to grab a coffee or looking to hire me:
-
-Email: rcreyes.951@gmail.com
-Phone: +19518161523
+### 📫 Here's my contact details if you are looking to grab a coffee or looking to hire me:
+- Email: rcreyes.951@gmail.com
+- Phone: +19518161523
