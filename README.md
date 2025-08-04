@@ -4,7 +4,7 @@
 
 ---
 
-🧩 Quick Bio
+### 🧩 Quick Bio
 - 📍 San Diego, CA based (work remote)
 - 🎓 B.S. in Mathematics – bridging analytics with product
 - 💼 Currently a Technical Product Owner building customer tools around AI and data dashboards
