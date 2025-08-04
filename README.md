@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/roflness"><img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="200" alt="👋 Hello GIF"></a>
-</p>
-
 <p align="center">Hi there, I'm Rafael (<strong>roflness</strong>) 👋</p>
 
 <p align="center">Product Owner &amp; Data Enthusiast | BS in Pure Mathematics | San Diego, CA</p>
@@ -9,10 +5,10 @@
 ---
 
 🧩 Quick Bio
-	•	📍 San Diego, CA based (work remote)
-	•	🎓 B.S. in Mathematics – bridging analytics with product
-	•	💼 Currently a Technical Product Owner building customer tools around AI and data dashboards
-	•	🔢 Background in business-oriented data product management and analytics
+- 📍 San Diego, CA based (work remote)
+- 🎓 B.S. in Mathematics – bridging analytics with product
+- 💼 Currently a Technical Product Owner building customer tools around AI and data dashboards
+- 🔢 Background in business-oriented data product management and analytics
 
 ---
 
